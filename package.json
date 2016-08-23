@@ -1,0 +1,16 @@
+{
+  "name": "@ardiffaz/elevatezoom",
+  "version": "2.5.4",
+  "description": "elevateZoom - A jQuery image zoom plugin",
+  "main": "jquery.elevatezoom.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ardiffaz/elevatezoom.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ardiffaz/elevatezoom/issues"
+  },
+  "homepage": "https://github.com/Ardiffaz/elevatezoom#readme"
+}
