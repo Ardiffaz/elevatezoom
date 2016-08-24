@@ -1,5 +1,5 @@
 {
-  "name": "@ardiffaz/elevatezoom",
+  "name": "elevatezoom",
   "version": "2.5.4",
   "description": "elevateZoom - A jQuery image zoom plugin",
   "main": "jquery.elevatezoom.js",
